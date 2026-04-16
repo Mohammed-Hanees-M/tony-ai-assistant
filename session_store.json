@@ -1,0 +1,878 @@
+{
+  "sess_1f1af614c2e3": {
+    "session_id": "sess_1f1af614c2e3",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776083306.8903513,
+    "last_active_at": 1776083306.8903513,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_ce5582689b74": {
+    "session_id": "sess_ce5582689b74",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776083550.9112248,
+    "last_active_at": 1776083550.9112248,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_4d8776a802f9": {
+    "session_id": "sess_4d8776a802f9",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776083713.0735147,
+    "last_active_at": 1776083713.0735147,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_044012c3ab69": {
+    "session_id": "sess_044012c3ab69",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776083781.7830446,
+    "last_active_at": 1776083781.7830446,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_ac156ff1537e": {
+    "session_id": "sess_ac156ff1537e",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776145178.8042593,
+    "last_active_at": 1776145178.8042593,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_7f2a010c1568": {
+    "session_id": "sess_7f2a010c1568",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776145379.7314875,
+    "last_active_at": 1776145379.7314875,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_92dde898cd1c": {
+    "session_id": "sess_92dde898cd1c",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776145563.5607715,
+    "last_active_at": 1776145563.5607715,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_81ff4625dab9": {
+    "session_id": "sess_81ff4625dab9",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776145640.6835232,
+    "last_active_at": 1776145640.6835232,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_21b414c55efd": {
+    "session_id": "sess_21b414c55efd",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776145691.8626816,
+    "last_active_at": 1776145691.8626816,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_1bdbca6d8394": {
+    "session_id": "sess_1bdbca6d8394",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776145730.893995,
+    "last_active_at": 1776145730.893995,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_6f684cbb00cb": {
+    "session_id": "sess_6f684cbb00cb",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776145881.6250172,
+    "last_active_at": 1776145881.6250172,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_ca3b597f7df3": {
+    "session_id": "sess_ca3b597f7df3",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776145982.5143955,
+    "last_active_at": 1776145982.5143955,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_aad8521c8dd7": {
+    "session_id": "sess_aad8521c8dd7",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776146087.519259,
+    "last_active_at": 1776146087.519259,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_52e12c14d6ec": {
+    "session_id": "sess_52e12c14d6ec",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776146106.9982734,
+    "last_active_at": 1776146106.9982734,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_d1690b044567": {
+    "session_id": "sess_d1690b044567",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776146261.032011,
+    "last_active_at": 1776146261.032011,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_625e9cd9fbb3": {
+    "session_id": "sess_625e9cd9fbb3",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776146483.6401796,
+    "last_active_at": 1776146483.6401796,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_2a92dfa66469": {
+    "session_id": "sess_2a92dfa66469",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776146659.064981,
+    "last_active_at": 1776146659.064981,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_8ffc65fb265c": {
+    "session_id": "sess_8ffc65fb265c",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776146931.157694,
+    "last_active_at": 1776146931.157694,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_83027c2cdbaa": {
+    "session_id": "sess_83027c2cdbaa",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776147019.6587875,
+    "last_active_at": 1776147019.6587875,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_4265b40d4430": {
+    "session_id": "sess_4265b40d4430",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776147161.3934102,
+    "last_active_at": 1776147161.3934102,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_75f1102bb6ac": {
+    "session_id": "sess_75f1102bb6ac",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776147381.4107454,
+    "last_active_at": 1776147381.4107454,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_caf59fd7bc82": {
+    "session_id": "sess_caf59fd7bc82",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776147763.559118,
+    "last_active_at": 1776147763.559118,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_11f89b74761d": {
+    "session_id": "sess_11f89b74761d",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776148148.067893,
+    "last_active_at": 1776148148.067893,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_64ab2d9764c3": {
+    "session_id": "sess_64ab2d9764c3",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776148241.9841406,
+    "last_active_at": 1776148241.9841406,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_f9ed2e297ce7": {
+    "session_id": "sess_f9ed2e297ce7",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776148595.0455053,
+    "last_active_at": 1776148595.0455053,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_9118f023baad": {
+    "session_id": "sess_9118f023baad",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776148801.4990604,
+    "last_active_at": 1776148801.4990604,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_9aa5072ec2ab": {
+    "session_id": "sess_9aa5072ec2ab",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776148991.9347086,
+    "last_active_at": 1776148991.9347086,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_40b7f78700d6": {
+    "session_id": "sess_40b7f78700d6",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776149218.8155718,
+    "last_active_at": 1776149218.8155718,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_40f9130c733e": {
+    "session_id": "sess_40f9130c733e",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776149632.6423237,
+    "last_active_at": 1776149632.6423237,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_a88cae8a748e": {
+    "session_id": "sess_a88cae8a748e",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776149839.2729025,
+    "last_active_at": 1776149839.2729025,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_f6a7f65cb125": {
+    "session_id": "sess_f6a7f65cb125",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776149922.814654,
+    "last_active_at": 1776149922.814654,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_a2c100bfeb37": {
+    "session_id": "sess_a2c100bfeb37",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776150324.9416842,
+    "last_active_at": 1776150324.9416842,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_809cde5b1a17": {
+    "session_id": "sess_809cde5b1a17",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776150462.1079865,
+    "last_active_at": 1776150462.1079865,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_3fa136d6a618": {
+    "session_id": "sess_3fa136d6a618",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776151384.8896656,
+    "last_active_at": 1776151384.8896656,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_4ba8959c9ec1": {
+    "session_id": "sess_4ba8959c9ec1",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776151462.1345992,
+    "last_active_at": 1776151462.1345992,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_4ca60ac70df0": {
+    "session_id": "sess_4ca60ac70df0",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776151687.0289474,
+    "last_active_at": 1776151687.0289474,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_c1c7b4c89266": {
+    "session_id": "sess_c1c7b4c89266",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776151843.5239854,
+    "last_active_at": 1776151843.5239854,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_99687925383d": {
+    "session_id": "sess_99687925383d",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776152165.3958368,
+    "last_active_at": 1776152165.3958368,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_81a082dea804": {
+    "session_id": "sess_81a082dea804",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776152512.371955,
+    "last_active_at": 1776152512.371955,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_ef0dcbb9617a": {
+    "session_id": "sess_ef0dcbb9617a",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776152829.5959046,
+    "last_active_at": 1776152829.5959046,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_de5f598bec33": {
+    "session_id": "sess_de5f598bec33",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776153016.9208064,
+    "last_active_at": 1776153016.9208064,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_22bfd79e917b": {
+    "session_id": "sess_22bfd79e917b",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776153338.131945,
+    "last_active_at": 1776153338.131945,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_6b07e25fa526": {
+    "session_id": "sess_6b07e25fa526",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776177760.8532162,
+    "last_active_at": 1776177760.8532162,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_d336c20a7870": {
+    "session_id": "sess_d336c20a7870",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776178045.809058,
+    "last_active_at": 1776178045.809058,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_7041598b8989": {
+    "session_id": "sess_7041598b8989",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776178723.6753273,
+    "last_active_at": 1776178723.6753273,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_424dba3afd6f": {
+    "session_id": "sess_424dba3afd6f",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776178798.3344462,
+    "last_active_at": 1776178798.3344462,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_de4a84934a50": {
+    "session_id": "sess_de4a84934a50",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776179033.2340825,
+    "last_active_at": 1776179033.2340825,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_15fec36e1943": {
+    "session_id": "sess_15fec36e1943",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776179346.5938585,
+    "last_active_at": 1776179346.5938585,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_08fd729e7b3a": {
+    "session_id": "sess_08fd729e7b3a",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776181181.121207,
+    "last_active_at": 1776181181.121207,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_2eb68bcff264": {
+    "session_id": "sess_2eb68bcff264",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776181493.073664,
+    "last_active_at": 1776181493.073664,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_8089f28aeeec": {
+    "session_id": "sess_8089f28aeeec",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776181531.1983209,
+    "last_active_at": 1776181531.1983209,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_40af3f2f449f": {
+    "session_id": "sess_40af3f2f449f",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776181792.5033486,
+    "last_active_at": 1776181792.5033486,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_e7ce2e933d21": {
+    "session_id": "sess_e7ce2e933d21",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776182183.5137076,
+    "last_active_at": 1776182183.5137076,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_6adacb4c7f17": {
+    "session_id": "sess_6adacb4c7f17",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776182421.7268772,
+    "last_active_at": 1776182421.7268772,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_0818e7f0608d": {
+    "session_id": "sess_0818e7f0608d",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776182648.6135838,
+    "last_active_at": 1776182648.6135838,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_e48344cc9598": {
+    "session_id": "sess_e48344cc9598",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776183209.701887,
+    "last_active_at": 1776183209.701887,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_b6c0142ac3ee": {
+    "session_id": "sess_b6c0142ac3ee",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776183762.049328,
+    "last_active_at": 1776183762.049328,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_d2cac492e32a": {
+    "session_id": "sess_d2cac492e32a",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776183804.1018205,
+    "last_active_at": 1776183804.1018205,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_2116c58cee42": {
+    "session_id": "sess_2116c58cee42",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776184212.514979,
+    "last_active_at": 1776184212.514979,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_d7bd69a57489": {
+    "session_id": "sess_d7bd69a57489",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776184798.7509143,
+    "last_active_at": 1776184798.7509143,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_6409412f1eaa": {
+    "session_id": "sess_6409412f1eaa",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776245016.3073378,
+    "last_active_at": 1776245016.3073378,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_906566e6b01b": {
+    "session_id": "sess_906566e6b01b",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776245706.0091672,
+    "last_active_at": 1776245706.0091672,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_9d76369ae274": {
+    "session_id": "sess_9d76369ae274",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776246241.198347,
+    "last_active_at": 1776246241.198347,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_67aef0cd7f1b": {
+    "session_id": "sess_67aef0cd7f1b",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776246881.8068979,
+    "last_active_at": 1776246881.8068979,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_26c7e4e25b38": {
+    "session_id": "sess_26c7e4e25b38",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776247184.8253284,
+    "last_active_at": 1776247184.8253284,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_0305c807c128": {
+    "session_id": "sess_0305c807c128",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776248250.722918,
+    "last_active_at": 1776248250.722918,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_073d67a4a90f": {
+    "session_id": "sess_073d67a4a90f",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776248397.8882082,
+    "last_active_at": 1776248397.8882082,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_8d2ca7d9e14e": {
+    "session_id": "sess_8d2ca7d9e14e",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776368557.6209035,
+    "last_active_at": 1776368557.6209035,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_b2867a1deb36": {
+    "session_id": "sess_b2867a1deb36",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776369083.914591,
+    "last_active_at": 1776369083.914591,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_a489b6016850": {
+    "session_id": "sess_a489b6016850",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776369254.567102,
+    "last_active_at": 1776369254.567102,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_e6d0cc79bcd8": {
+    "session_id": "sess_e6d0cc79bcd8",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776371227.7421536,
+    "last_active_at": 1776371227.7421536,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_5e8dada0901e": {
+    "session_id": "sess_5e8dada0901e",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776371263.4065578,
+    "last_active_at": 1776371263.4065578,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  },
+  "sess_6efe7421b5c2": {
+    "session_id": "sess_6efe7421b5c2",
+    "user_id": "hardened_premium_user",
+    "active_conversation_id": null,
+    "active_stream_id": null,
+    "created_at": 1776371643.7277389,
+    "last_active_at": 1776371643.7277389,
+    "status": "active",
+    "metadata": {
+      "mode": "production_fixed"
+    }
+  }
+}
